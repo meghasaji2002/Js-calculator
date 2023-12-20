@@ -1,0 +1,45 @@
+.heading{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+    color: white;
+   
+   
+}
+/* .contentcol{
+    width: 500px;
+} */
+
+
+.bt-1{
+    height: 40px;
+    width: 85px;
+    color: rgb(249, 8, 8);
+    background-color: rgb(39, 76, 87);
+}
+
+
+.input{
+    height: 30px;
+    width: 322px;
+    
+}
+.fstcol{
+    width: 150px;
+    height: 40px;
+    color: white;
+    background-color: rgb(39, 76, 87);
+}
+.bt-2{
+    height: 40px;
+    width: 85px;
+    color: white;
+    background-color: rgb(39, 76, 87);
+}
+
+.last{
+    height: 40px;
+    width: 256px;
+    background-color: rgb(39, 76, 87);
+}
